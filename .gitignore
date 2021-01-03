@@ -1,0 +1,9 @@
+RNN 遞歸神經網路/save_model/*
+Seq2seq 系列模型/1.Sequence_to_sequence/nmt_seq2seq/*
+Seq2seq 系列模型/1.Sequence_to_sequence/tensorflow-datasets/*
+Seq2seq 系列模型/2.Seq2seq_with_attention/nmt_seq2seq_with_attention/*
+Seq2seq 系列模型/2.Seq2seq_with_attention/tensorflow-datasets/*
+Seq2seq 系列模型/3.Transformer/nmt/*
+Seq2seq 系列模型/3.Transformer/tensorflow-datasets/*
+Seq2seq 系列模型/4.Transformer_based_model/Finetune_on_glue/save/*
+Seq2seq 系列模型/4.Transformer_based_model/Finetune_on_ptt/save_chinese/*
